@@ -5,8 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
 
-//My comment
-
 namespace SQLi_1
 {
     class Program
@@ -56,4 +54,3 @@ namespace SQLi_1
         }
     }
 }
-
